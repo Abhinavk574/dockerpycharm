@@ -7,6 +7,6 @@ RUN pip install pystrich
 CMD [ "python", "./src/my_script.py" ]
 
 
+dockerbranch2
 
-
-
+master
